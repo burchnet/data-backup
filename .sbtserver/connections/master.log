@@ -1,0 +1,16 @@
+New log file opened at Sat Jan 23 16:09:19 EST 2016 by 44100@cliffs-mbp
+Taking next connection to: 51398
+New client attempting to connect on port: 51399-51398
+  Address = /172.16.1.53:51398
+This client on port 51399 has uuid 755448c5-76f4-4d4c-a375-1d4c8ec3d07e configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-755448c5-76f4-4d4c-a375-1d4c8ec3d07e
+Taking next connection to: 51398
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51398
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51398
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51398
